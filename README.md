@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Kenlly Quispe Huacachin</h1>
-<h3 align="center">Automatización de QA | IA | Analista de QA | Ingeniero de control de calidad</h3>
+<h3 align="center">QA Automation | IA | QA Analyst | QA Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenllyquispe&label=Profile%20views&color=0e75b6&style=flat" alt="kenllyquispe" /> </p>
 
