@@ -15,7 +15,7 @@
 
 - 📄 Conoce mis experiencias [http://www.linkedin.com/in/kenlly-q-016012203](http://www.linkedin.com/in/kenlly-q-016012203)
 
-<h3 align="left">Conectar con yo:</h3>
+<h3 align="left">Conectar con:</h3>
 <p align="left">
 <a href="https://twitter.com/kenlly_q_h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kenlly_q_h" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kenlly quispe huacachin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kenlly quispe huacachin" height="30" width="40" /></a>
